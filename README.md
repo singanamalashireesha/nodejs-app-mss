@@ -6,7 +6,7 @@ git clone https://github.com/MithunTechnologiesDevOps/nodejs-app-mss.git
 
 cd nodejs-app-mss
 
-npm install
+npm installllllll
 
 node app.js 
 
