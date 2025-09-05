@@ -55,7 +55,7 @@ app.get("/html", function(req,res){
         //res.type('application/json');
         //res.json({'name': 'Mithun Reddy L'});
         res.send({
-		'name': 'Mithun Technologies',
+		'name': 'SIRIPAV Technologies',
 		'technology': 'DevOps',
 		'contact' : '9980923226',
 		'email': 'devopstrainingblr@gmail.com'
